@@ -1,6 +1,6 @@
 module.exports = {
-	contents: ['docs/_sidebar.md'], // array of "table of contents" files path
-	pathToPublic: 'pdf/readme.pdf', // path where pdf will stored
+	contents: ['etc/docsify-to-pdf/docs/_sidebar.md'], // array of "table of contents" files path
+	pathToPublic: 'etc/docsify-to-pdf/pdf/readme.pdf', // path where pdf will stored
 	pdfOptions: {
 		margin: { top: '100px', bottom: '100px' }
 	}, // reference: https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#pagepdfoptions
