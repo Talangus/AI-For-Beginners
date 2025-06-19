@@ -369,4 +369,4 @@ MigrationBackup/
 # Mac-specific
 .DS_Store
 
-etc/*
+etc/
