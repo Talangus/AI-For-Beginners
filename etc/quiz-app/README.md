@@ -122,3 +122,7 @@ jobs:
 ### Additional Resources
 - [Azure Static Web Apps Documentation](https://learn.microsoft.com/azure/static-web-apps/getting-started)
 - [GitHub Actions Documentation](https://docs.github.com/actions/use-cases-and-examples/deploying/deploying-to-azure-static-web-app)
+
+
+export NODE_OPTIONS=--openssl-legacy-provider
+npm run serve
