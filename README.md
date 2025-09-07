@@ -21,3 +21,6 @@ Labs covering optical flow, CNNs, and transfer learning.
 - [Palm Movement Detection with Optical Flow](lessons/4-ComputerVision/06-IntroCV/lab/MovementDetection.ipynb)
 - [Pet Faces Classification (CNN)](lessons/4-ComputerVision/07-ConvNets/lab/PetFaces.ipynb)
 - [Oxford Pets Transfer Learning + Targeted Classification attack](lessons/4-ComputerVision/08-TransferLearning/lab/OxfordPets.ipynb)
+- [CNN based Variational Auto encoder (task inside lesson notebook)](lessons/4-ComputerVision/09-Autoencoders/AutoEncodersPyTorch.ipynb)
+- [Style Transfer Network - My dog's picture with "The scream" style](lessons/4-ComputerVision/10-GANs/StyleTransfer.ipynb)
+- [Head Detection Network Using Holywood Heads Dataset](lessons/4-ComputerVision/11-ObjectDetection/lab/lab.ipynb)
