@@ -17,7 +17,7 @@ From simple neruon implementation to poupolar frameworks.
 - [Classification with Pytorch](lessons/3-NeuralNetworks/05-Frameworks/lab/LabFrameworks.ipynb)
 
 **Computer Vision:**  
-Labs covering optical flow, CNNs, and transfer learning.
+Labs covering optical flow, CNNs, transfer learning, Auto encoders, Style transfers, Object detection and Segmentation.
 - [Palm Movement Detection with Optical Flow](lessons/4-ComputerVision/06-IntroCV/lab/MovementDetection.ipynb)
 - [Pet Faces Classification (CNN)](lessons/4-ComputerVision/07-ConvNets/lab/PetFaces.ipynb)
 - [Oxford Pets Transfer Learning + Targeted Classification attack](lessons/4-ComputerVision/08-TransferLearning/lab/OxfordPets.ipynb)
