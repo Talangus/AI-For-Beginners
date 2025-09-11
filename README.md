@@ -24,3 +24,4 @@ Labs covering optical flow, CNNs, and transfer learning.
 - [CNN based Variational Auto encoder (task inside lesson notebook)](lessons/4-ComputerVision/09-Autoencoders/AutoEncodersPyTorch.ipynb)
 - [Style Transfer Network - My dog's picture with "The scream" style](lessons/4-ComputerVision/10-GANs/StyleTransfer.ipynb)
 - [Head Detection Network Using Holywood Heads Dataset](lessons/4-ComputerVision/11-ObjectDetection/lab/lab.ipynb)
+- [Body Segmentation Network Using MADS Dataset](lessons/4-ComputerVision/12-Segmentation/lab/BodySegmentation.ipynb)
