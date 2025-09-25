@@ -25,3 +25,6 @@ Labs covering optical flow, CNNs, transfer learning, Auto encoders, Style transf
 - [Style Transfer Network - My dog's picture with "The scream" style](lessons/4-ComputerVision/10-GANs/StyleTransfer.ipynb)
 - [Head Detection Network Using Holywood Heads Dataset](lessons/4-ComputerVision/11-ObjectDetection/lab/lab.ipynb)
 - [Body Segmentation Network Using MADS Dataset](lessons/4-ComputerVision/12-Segmentation/lab/BodySegmentation.ipynb)
+
+**NLP:**
+- [Skip-Gram Embedding Model](lessons/5-NLP/15-LanguageModeling/lab/assignment.ipynb)
