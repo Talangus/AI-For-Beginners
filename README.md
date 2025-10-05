@@ -28,3 +28,4 @@ Labs covering optical flow, CNNs, transfer learning, Auto encoders, Style transf
 
 **NLP:**
 - [Skip-Gram Embedding Model](lessons/5-NLP/15-LanguageModeling/lab/assignment.ipynb)
+- [Word Level LTSM Text Generation](lessons/5-NLP/17-GenerativeNetworks/lab/word_level_lstm_generator.ipynb)
